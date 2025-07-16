@@ -1,4 +1,4 @@
-package comparable;
+package colections_examples;
 
 class Car implements Comparable<Car> {
     private String model;
